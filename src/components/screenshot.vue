@@ -25,23 +25,6 @@
     <button @click="seeInspector()">Inspector</button>
     <button @click="screenShot()">ScreenShot</button>
 
-    <!-- <v-btn
-      icon
-      class="ml-7 mb-3"
-      style="position: absolute; left: 0; bottom: 0; z-index: 100000000"
-      ><md-icon
-        class="md-size-2x"
-        md-src="../assets/svg/editorOpen.svg"
-      ></md-icon
-    ></v-btn>
-    <v-btn
-      icon
-      @click="screenShot()"
-      class="ml-13 mb-3"
-      style="position: absolute; left: 5%; bottom: 0; z-index: 100000000"
-      ><v-icon>mdi-magnify</v-icon></v-btn
-    > -->
-
     <div
       id="mydiv"
       style="
